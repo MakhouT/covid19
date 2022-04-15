@@ -12,6 +12,7 @@ Created a very simple COVID19 app with 2 main functionalities:
 
 # Tech used
 - React
+- Typescript
 - Material UI
 - Redux-toolkit
 - RTK Query (!)
@@ -28,3 +29,6 @@ To test this follow this steps:
 - Check the network tab
 - Select another country, a new request is being sent out
 - Now select the first country you have selected, no new request is being sent out. It's being cached in redux. If you wait long enough it will clear its cache IF the data hasn't been used anymore for about 30 seconds to a minute.
+
+Also new for me was material UI, always used bootstrap in the past. And honestly material Ui is pretty neat!
+Defintely going to use it for my next project!
